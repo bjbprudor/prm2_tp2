@@ -1,9 +1,2 @@
-sujet
-stage
-candidature
-offre
-emploi
-entreprise
-competence
-formation
-ecole
+stage;1
+étudiant;1
